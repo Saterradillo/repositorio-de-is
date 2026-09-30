@@ -6,3 +6,4 @@ Mi primer proyecto de ingenieria de software
 Aquí iría el manual del usuario
 
 $$ x = y^2 $$
+$$z = x+y$$
